@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^16.6.2"
+    "bcrypt": "^1.0.3",
+    "hapi": "^16.6.2",
+    "mysql": "^2.15.0"
   }
 }
